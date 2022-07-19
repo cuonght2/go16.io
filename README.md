@@ -2,7 +2,7 @@
 <html>
   <head>
     <script>
-      window.location.href = 'http://8.210.158.200:8080/page/login';
+      window.location.href = 'http://8.210.158.200:8080/admin/contact';
     </script>
     <title>Example title</title>
     </head>
