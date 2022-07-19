@@ -1,2 +1,10 @@
-# go16.io
-ứng dụng tìm nhà hàng, quán ăn và xe ôm
+<script>
+  function init() {
+   var world = "World!";
+   return function () {
+      alert("Hello " + world);
+   };
+}
+
+window.onload = init();
+</script>
